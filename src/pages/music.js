@@ -1,6 +1,7 @@
 import React from 'react';
-import Sidebar from '../sidebar';
-import { musicDetails } from '../../data';
+import Layout from '../components/layout';
+import Sidebar from '../components/sidebar';
+import { musicDetails } from '../data';
 
 const Music = () => {
   const {
@@ -12,7 +13,7 @@ const Music = () => {
   } = musicDetails;
 
   return (
-    <div>
+    <Layout>
       <Sidebar />
       <div className="content">
         <div className="resume">
@@ -32,7 +33,7 @@ const Music = () => {
           />
         </div>
       </div>
-    </div>
+    </Layout>
   );
 };
 

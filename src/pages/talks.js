@@ -1,10 +1,11 @@
 import React from 'react';
-import { talkDetails } from '../../data/index';
-import Sidebar from '../sidebar';
-import TalkList from '../../components/tech-talks/talk-list';
+import Layout from '../components/layout';
+import Sidebar from '../components/sidebar';
+import TalkList from '../components/tech-talks/talk-list';
+import { talkDetails } from '../data/index';
 
 const TechTalks = () => (
-  <div>
+  <Layout>
     <Sidebar />
     <div className="content">
       <div className="resume">
@@ -12,7 +13,7 @@ const TechTalks = () => (
         <TalkList talkDetails={talkDetails} />
       </div>
     </div>
-  </div>
+  </Layout>
 );
 
 export default TechTalks;

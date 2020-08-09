@@ -1,11 +1,11 @@
-import React from "react"
+import React from 'react';
 import Layout from '../components/layout';
-import EducationDetails from '../components/resume/education-details';
-import WorkDetailList from '../components/resume/work-detail-list';
+import WorkDetailList from './../components/resume/work-detail-list';
 import Sidebar from '../components/sidebar';
-import { educationDetails, workDetails } from '../data';
+import EducationDetails from '../components/resume/education-details';
+import { educationDetails, workDetails } from './../data/index';
 
-const IndexPage = () => (
+const Work = () => (
   <Layout>
     <Sidebar />
     <div className="content">
@@ -17,4 +17,4 @@ const IndexPage = () => (
   </Layout>
 );
 
-export default IndexPage
+export default Work;
