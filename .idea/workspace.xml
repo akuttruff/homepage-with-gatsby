@@ -2,47 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0db69f24-88c7-428d-a00a-af316fe13932" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/music/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/resume/education-detail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/resume/education-details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/resume/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/resume/prop-types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/resume/work-detail-header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/resume/work-detail-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/resume/work-detail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sidebar/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sidebar/prop-types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sidebar/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sidebar/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sidebar/social-link.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sidebar/social-links.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tech-talks/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tech-talks/prop-types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tech-talks/talk-detail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tech-talks/talk-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/writing/prop-types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/writing/skyward-blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/ClojureWestPoster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/GraphQLPoster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/breitenbush.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/flight-insights.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/jama.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/littlebird_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/renew.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/skyward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/violin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/media/clojure.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/media/graph-ql.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/media/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/gatsby-astronaut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/gatsby-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
